@@ -1,1 +1,2 @@
 # IPK-network
+Chat client
